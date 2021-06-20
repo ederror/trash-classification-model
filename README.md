@@ -1,1 +1,1 @@
-# TrashClassificationModel
+# TrashClassificationModel by Pytorch
