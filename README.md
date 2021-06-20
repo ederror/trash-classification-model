@@ -32,5 +32,13 @@ Through transfer learning based on a model such as resnet, it was effectively tr
 |    resnext50_32x4d   | **96.80**  |      25.0     |  4.2    |
 |    wide_resnet50_2   |   96.80    |      68.9     |   *     |
 
+## Convert pytorch model to CoreML model
+* Install coremltools module
+```
+!pip install -U coremltools
+```
+* We use Apple's coremltools & PyTorch's JIT tracer
+* ref : https://developer.apple.com/videos/play/tech-talks/10154/
+
 ## For more information
 http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%9E%AC%ED%99%9C%EC%9A%A9_%EB%8F%95%EB%8A%94_%EC%82%AC%EB%AC%BC%EC%9D%B8%EC%A7%80_iOS_%EC%95%B1
