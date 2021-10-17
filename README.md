@@ -5,7 +5,6 @@
 ## Datasets
 * total **25 classes, 13000 images**
 * collect data via AutoCrawler (https://github.com/YoongiKim/AutoCrawler)
-* Train/Test set ratio: 90/10
 
 ## Train
 * Backbone : resnext50_32x4d
