@@ -32,8 +32,7 @@
 |       ResNet18       |   93.98    |      11.69    |  1.82   |
 |       ResNet34       |   93.12    |      21.8     |  3.68   |
 |       ResNet50       |   95.83    |      25.56    |  4.12   |
-|    resnext50_32x4d   | **96.80**  |      25.0     |  4.2    |
-|    wide_resnet50_2   |   96.80    |      68.9     |   *     |
+|    resnext50_32x4d   | **96.25**  |      25.0     |  4.2    |
 
 ## Convert pytorch model to CoreML model
 * Install coremltools module
